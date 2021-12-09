@@ -3,6 +3,6 @@ The GUI Application to Generate Simple CRUD Web Api Application Code based on [.
 
 Built with 
 
-* [Avalonia](http://avaloniaui.net/)
+* [Uno](https://platform.uno/docs/articles/get-started-dotnet-new.html)
 
-* [.NET](https://dotnet.microsoft.com/en-us/)
+* [.NET6](https://dotnet.microsoft.com/en-us/)
